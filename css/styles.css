@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri&display=swap');
+body{
+    background-color: #824A15;
+}
+nav ul{
+    direction: rtl;
+    list-style-type: none;  
+    display: flex;
+    padding-top: 10px;
+}
+li a{
+  font-family: 'Amiri', serif;
+    color: black;
+    text-decoration: none;
+    padding-left: 90px;
+    direction: rtl;
+}
+
+
+
+li .nav-link{
+    font-family: 'Amiri', serif;
+    color: black;
+    font-size: 24px;
+    padding-left: 90px;
+    padding-top: 0%;
+    text-decoration-color: #EBE0C5;
+
+}
+.nav_main{
+    background-color:#EBE0C5;
+    direction: rtl;
+     
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    width: 80px; 
+    height: auto; 
+    margin-right: 10px; 
+    display: inline;
+}
+
+
+
+.carousel-inner div { 
+    text-align:center; 
+  } 
+
+  .text_h1{
+    font-family: 'Amiri', serif;
+    color: #4B2B13;
+    font-size: 42px;
+    direction: rtl;
+    text-align: right;
+    padding-top: 15px;
+    padding-right: 15px;
+  }
+
+  .books_slider{
+    background-color: #EBE0C5;
+    height: 150px;
+
+  }
+
+  .sd2_image{
+    width: 100%;
+    height: 100%;
+  }
+
+  .card{
+    width: 250px;
+    height: 300px;
+  }
+
+  .card-footer .txt_avalible{
+    font-family: 'Amiri', serif;
+    color: rgb(77, 146, 104);
+    font-size: 22px;
+    direction: rtl;
+    text-align: right;
+
+  }
+
+  .card-footer .txt_unavalible{
+    font-family: 'Amiri', serif;
+    color: rgb(149, 34, 34);
+    font-size: 22px;
+    direction: rtl;
+    text-align: right;
+  }
+
+  .card-footer{
+    direction: rtl;
+    text-align: right;
+    font-family: 'Amiri', serif;
+    font-size: 22px;
+    color: black;
+  }
+
+ 
+  .slider_02{
+    background-color:#EBE0C5;
+    height: 400px;
+  }
+
+  .text2_h1{
+    font-family: 'Amiri', serif;
+    color: #EBE0C5;
+    font-size: 30px;
+    direction: rtl;
+    text-align: right;
+    padding-top: 30px;
+    padding-right: 15px;
+  }
+
+  .col-sm-2 li a{
+    direction: rtl;
+    list-style-type: none;  
+    display: flex;
+    color: #866C55;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.col-sm-2 ul{
+    list-style-type: none;  
+}
+
+.container-fliud{
+    direction: rtl;
+    height: 240px;
+  
+}
+
+.footer-logo-div{
+    direction: ltr;
+    padding-top: 0%;
+    margin-top: 0%;
+    display: flex;
+    align-items: center;
+}
+
+.img-logo-footer{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.img-logo-footer2{
+  width: 100%;
+  height: auto;
+  position: relative;
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.txt_label{
+  font-family: 'Amiri', serif;
+  color: #17100b;
+  font-size: 22px;
+  direction: rtl;
+  text-align: right;
+  padding-top: 15px;
+  padding-right: 20px;
+  display: inline-block;
+
+}
+.input{
+  display: inline-block;
+}
+
+.form_01{
+  background-color:#EBE0C5;
+  height: auto;
+  width: auto;
+  direction: rtl;
+  text-align: right;
+  align-content: center;
+  align-self: center;
+  display: block;
+}
+
+.btn_01{
+  position: relative;
+  padding-right: 300px;
+  font-family: 'Amiri', serif;
+  font-size: 18px;
+
+
+}
+.form-control{
+  width: auto;
+  
+}
+
+.btn_02{
+  position: relative;
+  display: block;
+  padding-right: 150px;
+  font-family: 'Amiri', serif;
+  font-size: 18px;
+
+
+
+}
+
+.form_bkg_01{
+  background-color: #EBE0C5;
+  width: 100%;
+  height: 100%;
+  padding-top: 0%;
+  padding-right: 150px;
+  margin-top: 50px;
+
+}
+
+.form_bkg_02{
+  background-color: #EBE0C5;
+  width: 100%;
+  height: 100%;
+  padding-top: 0%;
+  margin-right: 100px;
+  margin-top: 100px;
+
+}
+
+.form_bkg_03{
+  background-color: #EBE0C5;
+  width: 100%;
+  height: 100%;
+  padding-top: 200px;
+  padding-right: 50px;
+
+}
+
+.form_bkg_04{
+  background-color: #6F7877;
+  width: 100%;
+  height: 400px;
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  margin-right: 50px;
+
+}
+
+.header-img{
+  direction: rtl;
+  width: 100%;
+}
+
+.txt_label-02{
+  font-family: 'Amiri', serif;
+  color: #17100b;
+  font-size: 18px;
+  direction: rtl;
+  text-align: right;
+  padding-top: 15px;
+  padding-right: 20px;
+  display: inline-block;
+}
+
+.col-sm-6{
+  direction: rtl;
+}
+
+.text_h3{
+  font-family: 'Amiri', serif;
+  color: #163733;
+  font-size: 24px;
+  direction: rtl;
+  text-align: right;
+  padding-top: 15px;
+  padding-right: 15px;
+}
+
+.input-group {
+  position: absolute;
+  width: auto; 
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
